@@ -1,4 +1,6 @@
 <html>
-	<head>Hello Friend</head>
+	<head>
+		<title>Hello Friend</title>
+	</head>
 	<body>Ok</body>
 </html>
