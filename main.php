@@ -1,6 +1,8 @@
 <html>
 	<head>
-		<title>Hello Friend</title>
+		<title>Home Page</title>
 	</head>
-	<body>Ok</body>
+	<body>
+		Isabela State University
+	</body>
 </html>
