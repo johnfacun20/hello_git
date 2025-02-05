@@ -1,4 +1,8 @@
 <html>
-	<head>Hello Friend</head>
-	<body>Ok</body>
+	<head>
+		<title>Hello Friend</title>
+	</head>
+	<body>
+		<h1>CCSICT</h1>
+	</body>
 </html>
